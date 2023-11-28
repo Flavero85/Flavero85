@@ -1,6 +1,3 @@
-# Flavero85
- Olá eu sou o Flavio Rafael Cardozo
-
 # Flavio Rafael Cardozo 👨‍💻
 ## Nova Odessa-SP 
 ## flavero@gmail.com    - (19) 99882-1845
