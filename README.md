@@ -3,11 +3,9 @@
 ## 📞 (19) 99882-1845
 ## 📩 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:flavero@gmail.com)    
 ## 🔗 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-rafael-cardozo/)
+## 🔗 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Flavero85)
 
 ## 🌐 [Instagram](https://instagram.com/flaio.t.i) 
-## 🔗 [GitHub](https://github.com/flavero85)
-
-
 
 ![foto](foto.png)
 
