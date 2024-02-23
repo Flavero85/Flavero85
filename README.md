@@ -1,5 +1,5 @@
 # Flavio Rafael Cardozo 👨‍💻
-## Nova Odessa-SP 
+### Nova Odessa-SP 
 ## 📞 (19) 99882-1845
 ## 📩 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:flavero@gmail.com)    
 ## 🔗 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-rafael-cardozo/)
