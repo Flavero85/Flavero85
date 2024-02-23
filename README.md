@@ -20,6 +20,7 @@
 - Web Designer, Danki Code [90h]
 - Lógica de Programação, Unicamp EAD [20h]
 - Cursando Front-End e Back-End, Danki Code [1200h]
+- Alura Imersão Front-End [26h]
 
 ## 🗃 Experiência Profissional
 - Autonômo Manutenção e Suporte a Informática 
