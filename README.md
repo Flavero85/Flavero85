@@ -11,10 +11,13 @@
 
 > "Em algum, algo incrível está esperando para ser descoberto." Carls Sagan
 ### 💻 Objetivo: Dev Front-End
+- Análise e Desenvolvimento de Sistemas, Cruzeiro do Sul [2025 - 2026]
 - Técnico em Informática, Senac Americana [2023 - 2025]
 - Tecnico em Manutenção e Suporte  informática [2022 - 2023]
 
 ## 🎓Cursos Livres
+- Bootcamp Microsoft 50 anos Prompt inteligentes [4h]
+- Ingles para Programadores [34h]
 - Excel, Senac Americana [24h]
 - Arduíno, Senac Americana [40h]
 - Web Designer, Danki Code [90h]
@@ -23,6 +26,8 @@
 - Alura Imersão Front-End [26h]
 
 ## 🗃 Experiência Profissional
+- Suporte Técnico e HelpDesk
+- Criação de sites 
 - Autonômo Manutenção e Suporte a Informática 
 
 <p align="center"> 
@@ -30,11 +35,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavero85&show_icons=true&layout=compact" />
 </p>
 
-| Linguagens | Conhecimento |
-| ----------- | ----------- |
-| HTML | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| Arduíno | ⭐⭐ |
-| Photoshop | ⭐⭐ |
+| Linguagens  | Conhecimento  |
+| ----------- | -----------   |
+| Suporte Téc | ⭐⭐⭐⭐⭐ |
+| HTML        | ⭐⭐⭐⭐⭐ |
+| JavaScript  | ⭐⭐⭐      |
+| CSS         | ⭐⭐⭐⭐    |
+| Python      | ⭐⭐⭐      |
+| Arduíno     | ⭐⭐         |
+| Photoshop   | ⭐⭐         |  
+| Wordpress   | ⭐⭐⭐⭐⭐ |
 
